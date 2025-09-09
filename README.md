@@ -6,9 +6,12 @@ A GPU-accelerated simulation of **particle life** on a **Sierpinski fractal**, w
 ## Demo Videos
 
 <video width="640" controls>
-  <source src="https://youtube.com/shorts/4CcMPzsbshs?si=yMqHSp3-8Z6fNBY6" type="video/mp4">
+  <source src="https://github.com/igendelman/sierpinski-particle-life/blob/main/sim2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+Additional Video
+[![Watch the video](https://img.youtube.com/vi/LI1VsaKfZu4/0.jpg)](https://www.youtube.com/watch?v=LI1VsaKfZu4)
 
 ---
 
